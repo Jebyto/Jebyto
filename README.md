@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.js and i'm always open to new learning!
 - 💼 I'm looking for a job
 - 😄 Pronouns: He/Him
+- 🌐 My personal blog: <a href="https://jebytech.com.br/">jebytech.com.br</a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jebyto&theme=transparent" />
