@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there, my name is José Carlos, i'm a developer graduated in computer engineering at UNIFOR!
 
 - 🔭 I’m currently working on Easy Code
-- 🌱 I’m currently learning Flutter and clean architecture, and i'm always open to new learning!
+- 🌱 I’m currently learning Java, Spring, and software architecture, and i'm always open to new learning!
 - 💼 I'm always looking for new experiences!
 - 😄 Pronouns: He/Him
 - 🌐 My personal blog: <a href="https://jebytech.com.br/">jebytech.com.br</a>
